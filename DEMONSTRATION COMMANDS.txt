@@ -1,0 +1,13 @@
+Demonstration for Calculator
+using variable names 1 character long...lowercase or uppercase
+1. a = 1 + 100;
+2. display a; 
+
+we can now use 'a' in other expressions since it was declared and set to a value
+
+3. B = a - 10;
+4. print B; 
+5. print a + B;
+
+exit; // exits the program
+The programming accomodates for multiplication and division as well
